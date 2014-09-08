@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My 1st try with GitHub
+OK, it took me 2 minutes to find the "Edit" button -_-
